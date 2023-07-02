@@ -1,6 +1,16 @@
 # trips-planner
 A convenient app to plan all your trips
 
+Deploy:
+
+``` mvn clean install ```
+
+Then:
+
+``` flyctl deploy ```
+
+
+
 Guides
 PWA:
 https://web.dev/progressive-web-apps/
